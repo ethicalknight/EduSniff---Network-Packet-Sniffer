@@ -1,0 +1,12 @@
+
+---
+
+## 📝 Optional Enhancements
+- Filter packets by protocol (TCP/UDP/ICMP)
+- Export logs to a file
+- Show packet size or hex dump of payload
+- Interface selection from dropdown
+
+---
+
+Let me know if you'd like help packaging this into an executable (`.exe`) or building extra features like filtering or exporting logs.
